@@ -1,0 +1,84 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family:  Palatino;
+	font-style: normal;
+	font-weight: lighter;
+	background-color: #f7f7f7;
+	width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+
+.Menu{
+	font-family: Helvetica;
+	list-style: none;
+	padding: 0;
+	margin: 3vw;
+	float: left;
+	background-color: #e8edf0;
+	opacity: 0.75;
+	}
+
+.Menu li{
+	float: left;
+	padding: 0;
+	margin: 1vw 0;
+}
+
+.Menu a{
+	text-decoration: none;
+	color: #28292F;
+	letter-spacing: 0.3em;
+	padding: 1vw 2vw;
+	font-size: 1.8em;
+}
+
+.Menu a:hover{
+	background-color: #ccd1d3;
+	transition: 0.4s;
+}
+
+header h1{
+	font-family: Helvetica;
+	font-size: 3.6em;
+	letter-spacing: 0.7em;
+	float: left;
+	color: #28292F;
+	padding: 2vw 2.5vw;
+	margin: 2vw 15vw 1vw 3vw;
+	background-color: #e8edf0;
+	opacity: 0.75;
+	font-weight: normal;
+}
+
+/*footer{
+	height: 13vw;
+	background-color: #e8edf0;
+}
+
+.footer-holder{
+	width:900px;
+	margin:0 auto;
+	padding:26px 0 18px;
+	overflow:hidden;
+}
+
+
+.threecolumns h3{
+	margin:0 0 25px;
+	font-size:24px;
+	line-height:28px;
+	color:#28292F;
+}
+
+.threecolumns .contact-list{
+	margin:0 0 14px;
+	color:#28292F;
+	line-height:18px;
+}
+.threecolumns .contact-list dt{
+	float:left;
+	width:72px;
+}*/

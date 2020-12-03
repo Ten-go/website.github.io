@@ -1,0 +1,152 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: Palatino;
+	font-style: normal;
+	font-weight: lighter;
+	background-color: #f7f7f7;
+	width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+header{
+	background: url(pictures_for_style/mainprojects.jpg) no-repeat center center;
+	background-size: cover;
+	height: 70vh;
+	width: 100vw;
+}
+
+.Block1{
+	margin: 0;
+	padding: 5vw;
+	height: 40vw;
+}
+
+#Block2{
+	margin: 2vw 0;
+	padding: 4vw 5vw;
+	height: 83vw;
+	background-color: #e8edf0;
+	-webkit-box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+	-moz-box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+	-o-box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+	box-shadow: 0 0 50px rgba(0, 0, 0, .2);
+}
+
+.Line1{
+	width: 54vw;
+	height: 0.5vw;
+	background-color: #065079;
+	padding: 0;
+	margin: 0;
+}
+
+.Line2{
+	width: 54vw;
+	height: 0.5vw;
+	background-color: #065079;
+	padding: 0;
+	margin: 0;
+}
+
+.Line3{
+	width: 54vw;
+	height: 0.5vw;
+	background-color: #065079;
+	padding: 0;
+	margin: 0;
+}
+
+.Article{
+	font-family: Helvetica;
+	font-size: 1.8em;
+	letter-spacing: 0.3vw;
+	color: #065079;
+	padding: 1.5vw 0;
+	margin: 0 0 2vw 0;
+	font-weight: normal;
+}
+
+
+
+.FirstPj{
+	height: 35vw;
+	margin: 0;
+	padding: 0 0 0 0;
+	background-color: #eaeaea;
+	position: relative;
+
+	-webkit-box-shadow: 0 0 40px rgba(0, 0, 0, .3);
+	-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .3);
+	-o-box-shadow: 0 0 40px rgba(0, 0, 0, .3);
+	box-shadow: 0 0 40px rgba(0, 0, 0, .3);
+}
+
+.FirstPj h1{
+
+	font-size: 2.25em;
+	color: #28292F;
+	padding: 0;
+	margin: 0 20vw 0.5vw 3vw;
+	font-weight: normal;
+	float: left;
+	letter-spacing: 0.5vw;
+}
+
+.FirstPj h2{
+	font-size: 1.8em;
+	color: #28292F;
+	padding: 0;
+	margin: 0 0 0 3vw;
+	font-weight: normal;
+	float: left;
+}
+
+.FirstPj ul{
+
+	font-size: 1.35em;
+	color: #28292F;
+	padding: 0;
+	margin: 0;
+	width: 45vw;
+	float: left;
+}
+
+.FirstPj li{
+	margin: 0 0 0 5vw;
+}
+
+
+.FirstPj p{
+	font-size: 1.35em;
+	color: #28292F;
+	padding: 0;
+	margin: 0 0 0 3vw;
+	width: 40vw;
+	float: left;
+}
+
+
+.FirstPj img{
+	width: auto;
+	height: 35vw;
+	float: right;
+}
+
+.FirstPj:hover{
+	-webkit-box-shadow: 0 0 40px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .8);
+	-o-box-shadow: 0 0 40px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 40px rgba(0, 0, 0, .8);
+	z-index: 3;
+	transition: 0.4s;
+}
+
+.FirstPjText  p {
+	width: 50vw;
+}
+
+#pustota{
+	padding: 0;
+	margin: 5vw auto;
+}
